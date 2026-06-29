@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3ei010/jc/v1/juan/0
+seq: 0
+front:
+  text: 王序堯封沈氏所著醫經讀傷寒論讀簡明切當允為善本尚有女科輯要一書世罕傳本原稿為餘外舅徐虹橋先生補註珍藏先生早歸道山余授室後得見其書頗多入理深談發前人所未發者今年楊素園明府聞有此稿命為借抄余謂婦兄友珊曰君子之孝也亦務其大者遠者而已寶守遺編莫若傳諸不朽友珊許焉愛不揣鄙佇稍加參訂而公諸世云道光庚戌仲冬棘人王士雄書於潛齋
+  hash: sha256:8376b509a81326713e19b5d1128cec8c89b8c3ed21ae285b7b76f0348bc08186
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3ei010_jc_000-d2.h1s1}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 沈氏女科輯要
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ei010.xml
+hash: sha256:b63dafe2982bd23b8c83a3b07fb09d7af23ff2e8217320a6cbff4e080de043e5

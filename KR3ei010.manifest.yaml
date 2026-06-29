@@ -1,0 +1,861 @@
+canonical_identifier: bkk:krp/KR3ei010/v1
+canonical_location: https://kanripo.org/bkk/KR3ei010/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 沈氏女科輯要
+  identifiers:
+    krp: KR3ei010
+  tags:
+    kr-categories: KR3ei
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ei010.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ei010_000.yaml, hash: 'sha256:9eda31b3a7fcde49af98850a812bbcbe74847c12eca7345a0a8bfa3a5fb5ae5c'}
+  - {seq: 1, filename: KR3ei010_001.yaml, hash: 'sha256:92744cea5d4ab303ee0a29f8ee6b156e90aa9f196a963d75713122795767d346'}
+  - {seq: 3, filename: KR3ei010_003.yaml, hash: 'sha256:98c3637a21375f727186e3a27a73461696d2ef65985bd6481844829d6332270e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ei010_000.markers.yaml, hash: 'sha256:fe20aa151050aed84c80e05dea6b2fed539d19625f38e8d425e5d198c119528e'}
+  - {seq: 1, role: markers, filename: assets/KR3ei010_001.markers.yaml, hash: 'sha256:95530f6cd895cf9a457a18e2330b29b740b6be06667da2e8816b23d787193776'}
+  - {seq: 3, role: markers, filename: assets/KR3ei010_003.markers.yaml, hash: 'sha256:3d0abac49d7df588b3d4d1c30a2c4f4ad1b081f7aaa8e35c347859ccf9ea317e'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ei010_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 156
+  label: 王序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ei010_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 21099
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ei010_jc_001-d3d2
+    span:
+    - body
+    - 2
+    - 749
+  label: 第一節經水
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei010_jc_001-d3d3
+    span:
+    - body
+    - 749
+    - 1236
+  label: 第二節月事不調
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei010_jc_001-d3d4
+    span:
+    - body
+    - 1236
+    - 2259
+  label: 第三節辨色及病
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei010_jc_001-d3d5
+    span:
+    - body
+    - 2259
+    - 2441
+  label: 第四節經行聲啞及目暗泄瀉帶下等證
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei010_jc_001-d3d6
+    span:
+    - body
+    - 2441
+    - 4002
+  label: 第五節月事不來
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei010_jc_001-d3d7
+    span:
+    - body
+    - 4002
+    - 4055
+  label: 第六節淋漓不斷
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei010_jc_001-d3d8
+    span:
+    - body
+    - 4055
+    - 4341
+  label: 第七節月事異常
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei010_jc_001-d3d9
+    span:
+    - body
+    - 4341
+    - 5604
+  label: 第八節血崩
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei010_jc_001-d3d10
+    span:
+    - body
+    - 5604
+    - 7163
+  label: 第九節帶下
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei010_jc_001-d3d11
+    span:
+    - body
+    - 7163
+    - 8224
+  label: 第十節求子
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei010_jc_001-d3d12
+    span:
+    - body
+    - 8224
+    - 8805
+  label: 第十一節受胎總論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei010_jc_001-d3d13
+    span:
+    - body
+    - 8805
+    - 9940
+  label: 第十二節辨胎
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei010_jc_001-d3d14
+    span:
+    - body
+    - 9940
+    - 10645
+  label: 第十三節妊婦似風
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei010_jc_001-d3d15
+    span:
+    - body
+    - 10645
+    - 10883
+  label: 第十四節初娠似勞
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei010_jc_001-d3d16
+    span:
+    - body
+    - 10883
+    - 11085
+  label: 第十五節喘
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei010_jc_001-d3d17
+    span:
+    - body
+    - 11085
+    - 12378
+  label: 第十六節惡阻
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei010_jc_001-d3d18
+    span:
+    - body
+    - 12378
+    - 12658
+  label: 第十七節子煩
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei010_jc_001-d3d19
+    span:
+    - body
+    - 12658
+    - 13640
+  label: 第十八節子懸
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei010_jc_001-d3d20
+    span:
+    - body
+    - 13640
+    - 14713
+  label: 第十九節妊娠腫脹
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei010_jc_001-d3d21
+    span:
+    - body
+    - 14713
+    - 15855
+  label: 第二十節妊娠經來
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei010_jc_001-d3d22
+    span:
+    - body
+    - 15855
+    - 16584
+  label: 第二十一節子淋轉胞
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei010_jc_001-d3d23
+    span:
+    - body
+    - 16584
+    - 16770
+  label: 第二十二節妊娠滯下及下利
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei010_jc_001-d3d24
+    span:
+    - body
+    - 16770
+    - 17497
+  label: 第二十三節妊娠腹痛
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei010_jc_001-d3d25
+    span:
+    - body
+    - 17497
+    - 17663
+  label: 第二十四節妊娠腰痛
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei010_jc_001-d3d26
+    span:
+    - body
+    - 17663
+    - 17693
+  label: 第二十五節妊娠腹內鐘鳴
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei010_jc_001-d3d27
+    span:
+    - body
+    - 17693
+    - 18100
+  label: 第二十六節腹內兒哭
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei010_jc_001-d3d28
+    span:
+    - body
+    - 18100
+    - 19322
+  label: 第二十七節養胎
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei010_jc_001-d3d29
+    span:
+    - body
+    - 19322
+    - 19767
+  label: 第二十八節胎動不安
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei010_jc_001-d3d30
+    span:
+    - body
+    - 19767
+    - 20605
+  label: 第二十九節胎死腹中及胞衣不下
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei010_jc_001-d3d31
+    span:
+    - body
+    - 20605
+    - 21099
+  label: 第三十節妊娠藥忌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei010_jc_003-d4.h1s1
+    span:
+    - body
+    - 0
+    - 12242
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ei010_jc_003-d4d2
+    span:
+    - body
+    - 2
+    - 1677
+  label: 第一節臨產
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei010_jc_003-d4d3
+    span:
+    - body
+    - 1677
+    - 1855
+  label: 第二節胞衣不下
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei010_jc_003-d4d4
+    span:
+    - body
+    - 1855
+    - 1897
+  label: 第三節產後喜笑不休
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei010_jc_003-d4d5
+    span:
+    - body
+    - 1897
+    - 1928
+  label: 第四節惡露過多不止
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei010_jc_003-d4d6
+    span:
+    - body
+    - 1928
+    - 2045
+  label: 第五節惡露不來
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei010_jc_003-d4d7
+    span:
+    - body
+    - 2045
+    - 2110
+  label: 第六節九竅出血
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei010_jc_003-d4d8
+    span:
+    - body
+    - 2110
+    - 2186
+  label: 第七節黑氣鼻衄
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei010_jc_003-d4d9
+    span:
+    - body
+    - 2186
+    - 2617
+  label: 第八節眩暈昏冒
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei010_jc_003-d4d10
+    span:
+    - body
+    - 2617
+    - 2887
+  label: 第九節發狂譫語
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei010_jc_003-d4d11
+    span:
+    - body
+    - 2887
+    - 2960
+  label: 第十節不能語
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei010_jc_003-d4d12
+    span:
+    - body
+    - 2960
+    - 3011
+  label: 第十一節聲啞
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei010_jc_003-d4d13
+    span:
+    - body
+    - 3011
+    - 3165
+  label: 第十二節呃逆
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei010_jc_003-d4d14
+    span:
+    - body
+    - 3165
+    - 3355
+  label: 第十三節喘
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei010_jc_003-d4d15
+    span:
+    - body
+    - 3355
+    - 3636
+  label: 第十四節發熱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei010_jc_003-d4d16
+    span:
+    - body
+    - 3636
+    - 3759
+  label: 第十五節乍寒乍熱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei010_jc_003-d4d17
+    span:
+    - body
+    - 3759
+    - 3858
+  label: 第十六節頭汗
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei010_jc_003-d4d18
+    span:
+    - body
+    - 3858
+    - 4436
+  label: 第十七節泄瀉滯下
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei010_jc_003-d4d19
+    span:
+    - body
+    - 4436
+    - 4480
+  label: 第十八節便秘
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei010_jc_003-d4d20
+    span:
+    - body
+    - 4480
+    - 4589
+  label: 第十九節頭痛
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei010_jc_003-d4d21
+    span:
+    - body
+    - 4589
+    - 4951
+  label: 第二十節胃脘痛腹痛少腹痛
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei010_jc_003-d4d22
+    span:
+    - body
+    - 4951
+    - 5054
+  label: 第二十一節腹中虛痛胸項結核
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei010_jc_003-d4d23
+    span:
+    - body
+    - 5054
+    - 5477
+  label: 第二十二節小腹痛瘀血成膿
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei010_jc_003-d4d24
+    span:
+    - body
+    - 5477
+    - 5604
+  label: 第二十三節腰痛
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei010_jc_003-d4d25
+    span:
+    - body
+    - 5604
+    - 5635
+  label: 第二十四節遍身疼痛
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei010_jc_003-d4d26
+    span:
+    - body
+    - 5635
+    - 5819
+  label: 第二十五節浮腫
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei010_jc_003-d4d27
+    span:
+    - body
+    - 5819
+    - 5993
+  label: 第二十六節咳嗽
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei010_jc_003-d4d28
+    span:
+    - body
+    - 5993
+    - 6044
+  label: 第二十七節口眼喎斜
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei010_jc_003-d4d29
+    span:
+    - body
+    - 6044
+    - 8091
+  label: 第二十八節腰背反張
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei010_jc_003-d4d30
+    span:
+    - body
+    - 8091
+    - 8203
+  label: 第二十九節小便不通
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei010_jc_003-d4d31
+    span:
+    - body
+    - 8203
+    - 8242
+  label: 第三十節尿血
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei010_jc_003-d4d32
+    span:
+    - body
+    - 8242
+    - 8425
+  label: 第三十一節尿胞被傷小便淋瀝
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei010_jc_003-d4d33
+    span:
+    - body
+    - 8425
+    - 8451
+  label: 第三十二節產後玉門不閉
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei010_jc_003-d4d34
+    span:
+    - body
+    - 8451
+    - 8518
+  label: 第三十三節玉門腫脹焮痛
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei010_jc_003-d4d35
+    span:
+    - body
+    - 8518
+    - 8792
+  label: 第三十四節陰脫子宮下墜
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei010_jc_003-d4d36
+    span:
+    - body
+    - 8792
+    - 8963
+  label: 第三十五節產戶下物
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei010_jc_003-d4d37
+    span:
+    - body
+    - 8963
+    - 9074
+  label: 第三十六節水道下肉線
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei010_jc_003-d4d38
+    span:
+    - body
+    - 9074
+    - 9170
+  label: 第三十七節乳汁不通
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei010_jc_003-d4d39
+    span:
+    - body
+    - 9170
+    - 9208
+  label: 第三十八節回乳
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei010_jc_003-d4d40
+    span:
+    - body
+    - 9208
+    - 9236
+  label: 第三十九節乳頭碎裂
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei010_jc_003-d4d41
+    span:
+    - body
+    - 9236
+    - 9392
+  label: 第四十節吹乳
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei010_jc_003-d4d42
+    span:
+    - body
+    - 9392
+    - 9438
+  label: 第四十一節乳癰紅腫方發
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei010_jc_003-d4d43
+    span:
+    - body
+    - 9438
+    - 9535
+  label: 第四十二節乳癰已成
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei010_jc_003-d4d44
+    span:
+    - body
+    - 9535
+    - 9951
+  label: 第四十三節乳岩
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei010_jc_003-d4d45
+    span:
+    - body
+    - 9951
+    - 10857
+  label: 第四十四節熱入血室
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei010_jc_003-d4d46
+    span:
+    - body
+    - 10857
+    - 10933
+  label: 第四十五節咽硬
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei010_jc_003-d4d47
+    span:
+    - body
+    - 10933
+    - 11123
+  label: 第四十六節臟躁
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei010_jc_003-d4d48
+    span:
+    - body
+    - 11123
+    - 11170
+  label: 第四十七節陰寒
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei010_jc_003-d4d49
+    span:
+    - body
+    - 11170
+    - 11309
+  label: 第四十八節陰吹
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei010_jc_003-d4d50
+    span:
+    - body
+    - 11309
+    - 11489
+  label: 第四十九節陰癢
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei010_jc_003-d4d51
+    span:
+    - body
+    - 11489
+    - 12242
+  label: 第五十節女科書大略
+  type: section
+  level: 2
+hash: sha256:0755bb7cfd504865b0e7b27750c96b18a321a69701d30f42d57cd33dfa94f885
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

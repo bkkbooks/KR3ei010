@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ei010/v1
 canonical_location: https://kanripo.org/bkk/KR3ei010/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 沈氏女科輯要
   identifiers:
@@ -17,13 +17,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ei010_000.yaml, hash: 'sha256:b63dafe2982bd23b8c83a3b07fb09d7af23ff2e8217320a6cbff4e080de043e5'}
-  - {seq: 1, filename: KR3ei010_001.yaml, hash: 'sha256:5a0e71c4f2671f777a33c075620a68653491e0616ce90010b2ccafcc63165b64'}
-  - {seq: 3, filename: KR3ei010_003.yaml, hash: 'sha256:683a49d68ce0704a8efb71cae83f8bde5c107def16f856599a10ee8f629fe0ce'}
+  - {seq: 0, filename: KR3ei010_000.yaml, hash: 'sha256:726d17d17e4d825462035a61365dfd89fe12bf798559b90a5a77f5ca2751ffb6'}
+  - {seq: 1, filename: KR3ei010_001.yaml, hash: 'sha256:68d618ca3b34734a2189bdf9c76c0b7b5575634f8b9212ccfdc138f7eac1c659'}
+  - {seq: 3, filename: KR3ei010_003.yaml, hash: 'sha256:bdef0a6bd8fa394191337d2fddc5f9226ffb507324163db9017128e43bb700ca'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ei010_000.markers.yaml, hash: 'sha256:e81c0a6641fe401e34157149fd2cdcdd6e9d4dc4f151f65266e76fe6b7f67b61'}
-  - {seq: 1, role: markers, filename: assets/KR3ei010_001.markers.yaml, hash: 'sha256:65870f59a08d0af66664332e43cabd424510e877d54adabae7a6171ff07f43e0'}
-  - {seq: 3, role: markers, filename: assets/KR3ei010_003.markers.yaml, hash: 'sha256:6294acd2b15917564c9e4b51e55f826f7ff2c215eb6cae1d4a3c182dc54f9a2d'}
+  - {seq: 0, role: markers, filename: assets/KR3ei010_000.markers.yaml, hash: 'sha256:d6030a1f81b1542d88579de826d15c2599bd640e562677365ca609fc3512b8ae'}
+  - {seq: 1, role: markers, filename: assets/KR3ei010_001.markers.yaml, hash: 'sha256:8b8d68257003010ed4c2d1da40377f8d99a075fdeb4a6195487a5fb833405bc0'}
+  - {seq: 3, role: markers, filename: assets/KR3ei010_003.markers.yaml, hash: 'sha256:b84ed7f2d716d2cb106b4292ba937a97a217cfdb5320eca2bad27963978bf38c'}
 table_of_contents:
 - ref:
     seq: 0
@@ -855,4 +855,7 @@ table_of_contents:
   label: 第五十節女科書大略
   type: section
   level: 2
-hash: sha256:94e8cf2dde56ab8bca86b1a03a566862fbfed54244edda219030175c7599ecaf
+hash: sha256:59103729bef0cb806a851388807f19389302923d328851822c4f69262c97b485
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

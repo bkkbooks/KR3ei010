@@ -17,11 +17,11 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ei010_000.yaml, hash: 'sha256:726d17d17e4d825462035a61365dfd89fe12bf798559b90a5a77f5ca2751ffb6'}
+  - {seq: 0, filename: KR3ei010_000.yaml, hash: 'sha256:7b6bbff58c09a198575125ab7315ddb376070d06c5ea27bcad4193724170fe1e'}
   - {seq: 1, filename: KR3ei010_001.yaml, hash: 'sha256:68d618ca3b34734a2189bdf9c76c0b7b5575634f8b9212ccfdc138f7eac1c659'}
   - {seq: 3, filename: KR3ei010_003.yaml, hash: 'sha256:bdef0a6bd8fa394191337d2fddc5f9226ffb507324163db9017128e43bb700ca'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ei010_000.markers.yaml, hash: 'sha256:d6030a1f81b1542d88579de826d15c2599bd640e562677365ca609fc3512b8ae'}
+  - {seq: 0, role: markers, filename: assets/KR3ei010_000.markers.yaml, hash: 'sha256:506c56471bdb80f3dde497df32df537b9f5181b21e69e5a26ee5ce55b458b56c'}
   - {seq: 1, role: markers, filename: assets/KR3ei010_001.markers.yaml, hash: 'sha256:1b805094b39b827f7bb591b6f545548571f483d9b520f9f70c6b81ec2fa9295e'}
   - {seq: 3, role: markers, filename: assets/KR3ei010_003.markers.yaml, hash: 'sha256:6262f796b3a736689f91104f62c8b99d5eef0ddd0734fbfbff643db1d5a5a02f'}
 table_of_contents:
@@ -29,7 +29,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ei010_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 156
   label: 王序
@@ -855,7 +855,7 @@ table_of_contents:
   label: 第五十節女科書大略
   type: section
   level: 2
-hash: sha256:1a350a960074594366a0f160a13a94a498dcdcf2ffb17bf5a539f4fc703189f6
+hash: sha256:d779d410e9208d7b0b2170eeb3a28551f462a77a1fa3feb8febeb7e8f71684ec
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
